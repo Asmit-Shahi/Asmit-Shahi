@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asmit-Shahi
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python and JavaScript
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me Discord: AsmitShahi #9095
 
 <!---
